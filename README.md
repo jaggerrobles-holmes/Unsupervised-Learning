@@ -98,6 +98,6 @@ These players deliver elite production with fewer opportunities — a potential 
 To run locally:
 
 ```bash
-git clone https://github.com/yourusername/nba-player-clustering.git
-cd nba-player-clustering
+git clone https://github.com/jaggerrobles-holmes/NBA_Player_Analysis.git
+cd NBA_Player_Analysis
 jupyter notebook
