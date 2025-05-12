@@ -1,6 +1,3 @@
-# Unsupervised-Learning
-An example of an unsupervised data science project in python
-
 # 🏀 NBA Player Archetypes using PCA and KMeans Clustering
 
 This project analyzes NBA player season statistics from 2000 to the present to discover natural **player archetypes** using **unsupervised learning**. By applying **PCA** for dimensionality reduction and **KMeans clustering**, we segment players into distinct groups based on statistical performance — from All-Stars to role players — and identify **undervalued talent** using efficiency metrics.
