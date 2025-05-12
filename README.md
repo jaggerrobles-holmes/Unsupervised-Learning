@@ -70,8 +70,8 @@ Using **6 clusters**, we identified the following player types:
 ## 💡 Identifying Undervalued Talent
 
 We filtered for players with:
-- High **PER** (>20)
-- High **TS%** (>0.60)
+- High **PER** (>15)
+- High **TS%** (>0.55)
 - Low **PTS** (<500)
 - Belonging to non-star clusters (e.g., 1 or 3)
 
